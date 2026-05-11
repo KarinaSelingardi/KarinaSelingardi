@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaSelingardi
 - 👀 I’m interested in C and Java Programing Languages or Client Support job
-- 💞️ I’m looking to collaborate on self made projects in Java and C 
+- 💞️ I’m looking to collaborate on self made projects in C and Pyhton
 
 
 <!---
